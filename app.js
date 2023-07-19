@@ -1,4 +1,4 @@
-// book class: represents a book
+// book class: represent a book
 class Book{
     constructor(title, author, isbn){
         this.title = title;
