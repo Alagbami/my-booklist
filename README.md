@@ -1,4 +1,7 @@
 # my-booklist
 
-i dont know what to write  
-checking
+booklist webapp using 
+strpe.js libary
+javascript
+Html/css
+
